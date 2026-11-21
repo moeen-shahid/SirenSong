@@ -1,0 +1,12 @@
+{
+  "name": "sirensong-live",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SirenSong whale early-warning demo with live Baltic ship data",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gof": {
+    "name": "Helsinki to Tallinn",
+    "lon0": 23.90497,
+    "lon1": 25.99502,
+    "lat0": 59.3999,
+    "lat1": 60.22009,
+    "clon": 24.95,
+    "clat": 59.81,
+    "radiusKm": 80
+  },
+  "aland": {
+    "name": "Åland Sea",
+    "lon0": 19.24738,
+    "lon1": 21.35261,
+    "lat0": 59.6399,
+    "lat1": 60.46009,
+    "clon": 20.3,
+    "clat": 60.05,
+    "radiusKm": 80
+  },
+  "east": {
+    "name": "Eastern Gulf of Finland",
+    "lon0": 25.99579,
+    "lon1": 28.10421,
+    "lat0": 59.6899,
+    "lat1": 60.51009,
+    "clon": 27.05,
+    "clat": 60.1,
+    "radiusKm": 80
+  }
+}

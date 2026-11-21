@@ -1,0 +1,30 @@
+[
+  {
+    "file": "right-whale-upcalls.mp3",
+    "label": "Right whale upcalls",
+    "truth": "right",
+    "credit": "Recording: NOAA Fisheries, Sounds in the Ocean.",
+    "original": "Eugl-upcall-NOAA-PAGroup-01-right-clip-1.mp3"
+  },
+  {
+    "file": "right-whale-mixed.mp3",
+    "label": "Right whale, mixed calls",
+    "truth": "right",
+    "credit": "Recording: NOAA Fisheries, Sounds in the Ocean.",
+    "original": "Eugl-multisound-NOAA-PAGroup-01-right-whale-clip.mp3"
+  },
+  {
+    "file": "humpback-song.mp3",
+    "label": "Humpback song",
+    "truth": "humpback",
+    "credit": "Recording: NOAA Fisheries, Sounds in the Ocean.",
+    "original": "Meno-song-NOAA-PAGroup-13-humpback-clip.mp3"
+  },
+  {
+    "file": "orca-calls.mp3",
+    "label": "Orca calls",
+    "truth": "orca",
+    "credit": "Recording: NOAA Fisheries, Sounds in the Ocean.",
+    "original": "Oror-Multisound-AWI-Van-Opzeeland-01-killer-clip.mp3"
+  }
+]
