@@ -70,9 +70,6 @@ If it gets a window wrong, click the right species and it learns from it.
 
 "Test a real recording" does the same for any audio file of your own.
 
-The recordings come from NOAA Fisheries' "Sounds in the Ocean" page. Credit them as that
-page's "How to Credit a File From This Page" section asks, and do not republish them.
-
 ## If the ship feed does not work
 
 This server was tested against a stand-in that mimics the Digitraffic response format,
